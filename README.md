@@ -2,4 +2,4 @@
 Data used in the Microcomputer Space Course
 
 ## Site
-kotetsu1710.com/blog/
+https://kotetsu1710.com/blog/
